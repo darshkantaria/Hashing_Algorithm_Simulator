@@ -33,3 +33,6 @@ To run this project locally, follow these steps:
 - **LinearHashing**: Implements linear hashing with methods for insertion, deletion, and splitting based on a load factor.
 - **BitmapHashing**: Implements bitmap hashing, providing functionality to manage keys using a bitmap representation.
 
+![Screenshot 2024-10-15 001059](https://github.com/user-attachments/assets/948d0f30-3fd1-4217-a308-352f42401cf2)
+
+
